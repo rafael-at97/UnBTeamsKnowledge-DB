@@ -1,4 +1,4 @@
-# Python script to start messing around with python-mysql
+# Python script to start database
 import MySQLdb
 
 # Connection and cursor
